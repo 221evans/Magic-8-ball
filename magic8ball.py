@@ -44,6 +44,8 @@ elif random_number == 16:
   answer = "My reply in no."
 elif random_number == 17:
   answer = "My sources say no."
+elif random_number == 18:
+  answer = ""
 
 
   
